@@ -1,0 +1,15 @@
+{
+  "name": "pre-final_jalmasco",
+  "version": "1.0.0",
+  "description": "Static HTML project",
+  "main": "index.js",
+  "scripts": {
+    "start": "start index.html"
+  },
+  "keywords": [],
+  "author": "Eunice Jalmasco",
+  "license": "ISC",
+  "devDependencies": {
+    "open": "^10.2.0"
+  }
+}
